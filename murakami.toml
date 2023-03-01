@@ -1,0 +1,4 @@
+[settings]
+port = 80
+loglevel = "INFO"
+immediate = 1
